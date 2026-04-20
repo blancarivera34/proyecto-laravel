@@ -1,2 +1,2 @@
-# proyecto-laravel
-Proyecto base en Laravel para la materia de Desarrollo, seguridad y operación de sistemas
+# Proyecto Laravel
+Simulación de estructura Laravel
